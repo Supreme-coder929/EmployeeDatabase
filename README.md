@@ -1,5 +1,5 @@
 # EmployeeDatabase
-I created this project purely in python since I started reading Automate with python book online. Currently, I am on chapter 6 of the Automate with python book.
+I created this project purely in python3.
 
 Prequistes -
 --> Python3
